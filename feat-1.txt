@@ -1,1 +1,6 @@
-this is a new feature for frontend 
+this is a new feature for frontend
+
+in this feature
+UI
+Browser
+website design  
